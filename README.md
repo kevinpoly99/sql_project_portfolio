@@ -19,7 +19,7 @@ Find here the file for the project: [project_sql folder](/project_sql/)
 
 Thanks for checking out my project!
 
-# Background / Findings
+# Background
 As someone looking to build a career as Business Analyst, I wanted to strengthen my SQL skills while gaining a better understanding of the job market I aspire to enter.
 
 I created this project to combine hands-on experience with practical career research. By exploring Business Analyst job postings, I aimed to understand the skills employers value, salary expectations, and key focus areas.
