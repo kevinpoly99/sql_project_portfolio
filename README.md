@@ -31,7 +31,7 @@ This project represents a step in my journey toward becoming a data-driven profe
 #### [Go to Query](/project_sql/1_Top_paying_jobs.sql)
 
 
-Certain specific roles in Business Analyst's salaries ranges from **$100,000 to $162,500** among the top results.
+Certain specific roles in Business Analyst's salary ranges from **$100,000 to $162,500** among the top results.
 
 - 🏆 **Highest salary:** $162,500 at CyberCoders.
 - 📊 **Common roles:** Business Intelligence Analyst and Business Data Analyst.
