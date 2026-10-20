@@ -1,6 +1,6 @@
 /* Top paying Business Analyst roles
 - No nulls
-- Including ompany Name
+- Including company Name
 - Top Salary
 - Available in Canada including remote
 */
