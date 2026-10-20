@@ -59,7 +59,7 @@ Here I look for average annual salaries for each skill in business analyst roles
 # 🛠️Tools and SQL functions
 
 - **PostgreSQL:** Used as the database management for the project. 
-- **Visual Studio Code (VS Code):** Used as the tool to run and execute queries.
+- **Visual Studio Code (VS Code):** Used as the tool to write and execute queries.
 - **SQL:** Applied filtering `WHERE`, sorting `ORDER BY`, aggregations `GROUP BY`, `COUNT`, `AVG`, `CASE WHEN`, subqueries, and Common Table Expressions (CTEs) and `Joins` to analyze salaries, skill demand, and job opportunities.
 - **GitHub:** Used to host and showcase the project as part of my SQL portfolio.
 
